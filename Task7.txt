@@ -1,0 +1,59 @@
+Identify and Remove Suspicious Browser Extensions
+
+
+1: Open the Extensions/Add-ons Manager
+
+Chrome/Edge/Brave: Go to the menu (⋮ or ⋯) → More Tools → Extensions, or simply type chrome://extensions/ in the address bar.
+
+
+2: Review All Installed Extensions
+
+Scan the list of installed extensions one by one.
+Flag any that you don’t recognize or no longer use. Unused or outdated extensions pose security and performance risks.
+
+
+3: Check Permissions and Reviews
+
+Click Details or view the Permissions tab to see what each extension can access—browser history, all websites, clipboard, etc. 
+Read user reviews and check when it was last updated. Be particularly wary of excessive permissions from extensions that don't need them.
+
+
+4: Identify Unused or Suspicious Extensions
+
+Look for these red flags:
+
+Installed without your awareness or suddenly appeared.
+Permissions that seem unnecessary.
+Unmaintained or outdated (no recent updates).
+Poor reviews or news mentions of malicious behavior 
+
+
+5: Remove Suspicious or Unused Extensions
+
+Click Remove (or Uninstall) on flagged extensions.
+For Windows Chrome, you can also enable Developer Mode to locate and delete extension folder.
+
+
+6: Restart Browser & Check Performance
+
+Close and relaunch your browser to ensure removed extensions are fully cleared.
+Monitor its speed and responsiveness—expect smoother startup times and quicker page loads without extension overhead.
+
+
+7: Understand Extension Threats
+
+Malicious extensions can:
+
+Steal credentials, session tokens, clipboard content, or browsing history.
+Inject ads, redirect your traffic, or install trojans. 
+Harvest browsing data for profit or botnet activities.
+Slow down your browser, consume resources, or exploit outdated code.
+
+
+8: Document What You Did
+
+Create a log containing:
+
+Step	Action Taken	   Extension Name	Reason
+1	Reviewed	   AdBlocker Pro	No longer used
+2	Removed	Volume     Booster	        Excessive permissions
